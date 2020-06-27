@@ -259,3 +259,9 @@
 		margin-top: 20px;
 	}
 }
+
+@media (max-width: 562px){
+	.card{
+		width: 98%;
+	}
+}
